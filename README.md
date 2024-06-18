@@ -1,0 +1,2 @@
+# ffmpegSdlMfcPlayer
+使用FFmpeg和SDL编写MFC程序，实现图形化的视频播放器
